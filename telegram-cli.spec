@@ -1,4 +1,4 @@
-Name:       	telegram-cli
+Name:       	An advance Administration bot based on @super_X_power/telegram-bot
 Version:	Beta
 Release:	2%{?dist}
 Summary:	Private fast and open platform for instant messaging
